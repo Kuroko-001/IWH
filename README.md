@@ -313,6 +313,4 @@ torchvision >= 0.15     (for HiNet)
 - Chen & Wornell: Quantization Index Modulation Methods for Digital Watermarking
 - Cox et al.: Secure Spread Spectrum Watermarking for Multimedia
 
-## License
 
-MIT
